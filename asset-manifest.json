@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/unendlichkeit/proba/gh-pages/static/css/main.dccc57b7.chunk.css",
-    "main.js": "/unendlichkeit/proba/gh-pages/static/js/main.6e9c0dc6.chunk.js",
-    "main.js.map": "/unendlichkeit/proba/gh-pages/static/js/main.6e9c0dc6.chunk.js.map",
-    "runtime-main.js": "/unendlichkeit/proba/gh-pages/static/js/runtime-main.742a9e3b.js",
-    "runtime-main.js.map": "/unendlichkeit/proba/gh-pages/static/js/runtime-main.742a9e3b.js.map",
-    "static/js/2.55684289.chunk.js": "/unendlichkeit/proba/gh-pages/static/js/2.55684289.chunk.js",
-    "static/js/2.55684289.chunk.js.map": "/unendlichkeit/proba/gh-pages/static/js/2.55684289.chunk.js.map",
-    "index.html": "/unendlichkeit/proba/gh-pages/index.html",
-    "precache-manifest.22852feea5f62ae82b973859b50aea30.js": "/unendlichkeit/proba/gh-pages/precache-manifest.22852feea5f62ae82b973859b50aea30.js",
-    "service-worker.js": "/unendlichkeit/proba/gh-pages/service-worker.js",
-    "static/css/main.dccc57b7.chunk.css.map": "/unendlichkeit/proba/gh-pages/static/css/main.dccc57b7.chunk.css.map",
-    "static/js/2.55684289.chunk.js.LICENSE.txt": "/unendlichkeit/proba/gh-pages/static/js/2.55684289.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/unendlichkeit/proba/gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/proba/static/css/main.dccc57b7.chunk.css",
+    "main.js": "/proba/static/js/main.652bb2bb.chunk.js",
+    "main.js.map": "/proba/static/js/main.652bb2bb.chunk.js.map",
+    "runtime-main.js": "/proba/static/js/runtime-main.ceea72df.js",
+    "runtime-main.js.map": "/proba/static/js/runtime-main.ceea72df.js.map",
+    "static/js/2.55684289.chunk.js": "/proba/static/js/2.55684289.chunk.js",
+    "static/js/2.55684289.chunk.js.map": "/proba/static/js/2.55684289.chunk.js.map",
+    "index.html": "/proba/index.html",
+    "precache-manifest.9313e2051796aa6e12c4fbba701f526e.js": "/proba/precache-manifest.9313e2051796aa6e12c4fbba701f526e.js",
+    "service-worker.js": "/proba/service-worker.js",
+    "static/css/main.dccc57b7.chunk.css.map": "/proba/static/css/main.dccc57b7.chunk.css.map",
+    "static/js/2.55684289.chunk.js.LICENSE.txt": "/proba/static/js/2.55684289.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/proba/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.742a9e3b.js",
+    "static/js/runtime-main.ceea72df.js",
     "static/js/2.55684289.chunk.js",
     "static/css/main.dccc57b7.chunk.css",
-    "static/js/main.6e9c0dc6.chunk.js"
+    "static/js/main.652bb2bb.chunk.js"
   ]
 }
