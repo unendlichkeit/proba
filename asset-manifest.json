@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unendlichkeit/proba/static/css/main.dccc57b7.chunk.css",
+    "main.js": "/unendlichkeit/proba/static/js/main.b5982712.chunk.js",
+    "main.js.map": "/unendlichkeit/proba/static/js/main.b5982712.chunk.js.map",
+    "runtime-main.js": "/unendlichkeit/proba/static/js/runtime-main.e1eddbb7.js",
+    "runtime-main.js.map": "/unendlichkeit/proba/static/js/runtime-main.e1eddbb7.js.map",
+    "static/js/2.55684289.chunk.js": "/unendlichkeit/proba/static/js/2.55684289.chunk.js",
+    "static/js/2.55684289.chunk.js.map": "/unendlichkeit/proba/static/js/2.55684289.chunk.js.map",
+    "index.html": "/unendlichkeit/proba/index.html",
+    "precache-manifest.956e819e8677e64300cc05d416444122.js": "/unendlichkeit/proba/precache-manifest.956e819e8677e64300cc05d416444122.js",
+    "service-worker.js": "/unendlichkeit/proba/service-worker.js",
+    "static/css/main.dccc57b7.chunk.css.map": "/unendlichkeit/proba/static/css/main.dccc57b7.chunk.css.map",
+    "static/js/2.55684289.chunk.js.LICENSE.txt": "/unendlichkeit/proba/static/js/2.55684289.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/unendlichkeit/proba/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1eddbb7.js",
+    "static/js/2.55684289.chunk.js",
+    "static/css/main.dccc57b7.chunk.css",
+    "static/js/main.b5982712.chunk.js"
+  ]
+}
